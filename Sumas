@@ -1,0 +1,12 @@
+void main() {
+ //Operaciones Basicas
+  int num1=10;
+  int num2=20;
+  int suma;
+  suma=num1+num2;
+  
+  print("la suma es "+ suma.toString());
+ 
+  
+  
+  }
